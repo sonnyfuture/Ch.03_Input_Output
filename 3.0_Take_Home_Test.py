@@ -1,18 +1,18 @@
 '''
 HONOR CODE: I solemnly promise that while taking this test I will only use PyCharm or the Internet,
-but I will definitely not ask another person except the instructor. Signed: ______________________
+but I will definitely not ask another person except the instructor. Signed: Eddie H. Agic
 
 
 
 1. Write a line of code that will print your name.
 '''
 
+print("Eddie Agic")
 
 '''
 2. How do you enter a comment in a program?
-
 '''
-
+#Like this, or with the three apostraphe marks.  Also why is this underlined it is very annoying.
 
 '''
 3. What is the ouput of the following lines of code?
@@ -20,13 +20,14 @@ print (2/3)
 print (2//3)
 '''
 
+#Runs the equations... .666 repeating and 0 respectivley.
 
 '''
 4. Write a line of code that creates a variable called pi and sets it to an
 appropriate value.
-
 '''
 
+print()
 
 '''
 5. Why does this code not work?
