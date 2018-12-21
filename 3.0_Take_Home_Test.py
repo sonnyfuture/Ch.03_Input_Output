@@ -72,7 +72,7 @@ print("P=",(moles*(8.3144)*temperature)/volume)
 
 '''
 9. Ask a user for an integer and then print the square root.
-'''
+INCORRECT: Your code just divides by 2'''
 
 integer=int(input("Insert Integer: "))
 print(integer**1/2)
