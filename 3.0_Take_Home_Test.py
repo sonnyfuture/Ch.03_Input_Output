@@ -75,7 +75,7 @@ print("P=",(moles*(8.3144)*temperature)/volume)
 INCORRECT: Your code just divides by 2'''
 
 integer=int(input("Insert Integer: "))
-print(integer**1/2)
+print(integer**(1/2))
 
 '''
 10. Good Star Wars joke: "May the mass times acceleration be with you!" because F=ma. Ask the user for mass and acceleration
